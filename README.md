@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 - 🔭 I’m currently working as PHP developer but also can help you with frontend!
-- 🌱 I’m currently learning JS and Vue.js framework
+- 🌱 I’m currently learning Vue.js framework
 - 🤔 I’m planning to learn Symfony but I have a lot I want to learn - so step by step 😄
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andrey-grytsenko-607a57107/)
 
