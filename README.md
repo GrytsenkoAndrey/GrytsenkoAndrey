@@ -14,7 +14,7 @@
 
 🔭 I’m currently working as PHP developer but also can help you with frontend!
 
-🌱 I’m currently learning Symfony and practice Vue.js
+🌱 I’m currently learning Symfony and practice Vue.js (work with Vue3)
 
 🤔 I think nothing is impossible - there is a lack of information and time 
 
