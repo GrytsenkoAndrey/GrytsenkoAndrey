@@ -14,7 +14,7 @@
 
 🔭 I’m currently working as PHP developer but also can help you with frontend!
 
-🌱 I’m currently learning Symfony and practice Vue.j
+🌱 I’m currently learning Symfony and practice Vue
 
 
 
