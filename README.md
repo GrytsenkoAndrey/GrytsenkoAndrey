@@ -17,8 +17,6 @@
 
 🌱 I’m currently learning Symfony and practice Vue
 
-
-
 🤔 I think nothing is impossible - there is a lack of information and time 
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andrey-grytsenko-607a57107/)
@@ -55,6 +53,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GrytsenkoAndrey&theme=vue&currStreakNum=2FD3EB&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrytsenkoAndrey)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GrytsenkoAndrey)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **GrytsenkoAndrey/GrytsenkoAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
