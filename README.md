@@ -15,7 +15,7 @@
 
 🔭 I’m currently working as PHP developer but also can help you with frontend
 
-🌱 I’m currently practice Symfony and Vue on my pet project 
+🌱 I’m currently practice Symfony and Vue on my projects
 
 🤔 I think nothing is impossible - there is a lack of information and time 
 
