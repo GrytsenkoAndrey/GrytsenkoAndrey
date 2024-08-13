@@ -13,7 +13,7 @@
 
 <h1 align="center"> Hi there 👋 </h1>
 
-🔭 I’m currently working as PHP developer but also can help you with frontend
+🔭 I’m a Software Engineer and currently working as PHP developer but also can help you with frontend
 
 <!--🌱 I’m currently practice Symfony and Vue on my projects-->
 
