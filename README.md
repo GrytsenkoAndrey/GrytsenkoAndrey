@@ -54,7 +54,7 @@
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=GrytsenkoAndrey)](https://git.io/streak-stats) -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GrytsenkoAndrey&theme=vue&currStreakNum=2FD3EB&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-black-five.vercel.app?user=GrytsenkoAndrey)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrytsenkoAndrey)](https://github.com/anuraghazra/github-readme-stats)
 
