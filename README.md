@@ -19,7 +19,7 @@
 
 🤔 I think nothing is impossible - there is a lack of information and time 
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andrey-grytsenko-607a57107/)
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andrey-grytsenko/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
