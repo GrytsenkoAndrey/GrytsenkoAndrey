@@ -13,8 +13,7 @@
 
 <h1 align="center"> Hi there 👋 </h1>
 
-🔥 [Certified Senior Laravel Developer](https://verifier.certificationforlaravel.org/a2ee5359-d277-4219-bdc7-5b7596f3590d)
-<img src="https://github.com/GrytsenkoAndrey/GrytsenkoAndrey/blob/main/Senior%20Laravel%20Developer.png" alt="Senior Laravel Developer" width='100' />
+🔥 <img src="https://github.com/GrytsenkoAndrey/GrytsenkoAndrey/blob/main/Senior%20Laravel%20Developer.png" alt="Senior Laravel Developer" width='100' /> [Certified Senior Laravel Developer](https://verifier.certificationforlaravel.org/a2ee5359-d277-4219-bdc7-5b7596f3590d)
 
 🔭 I’m a Software Engineer and currently work as PHP developer but also can help you with frontend side
 
