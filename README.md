@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://github.com/GrytsenkoAndrey/GrytsenkoAndrey/blob/main/Senior%20Laravel%20Developer.png" alt="Senior Laravel Developer" width='100' />
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/andrey-grytsenko-607a57107/">
@@ -13,7 +14,7 @@
 
 <h1 align="center"> Hi there 👋 </h1>
 
-<img src="https://github.com/GrytsenkoAndrey/GrytsenkoAndrey/blob/main/Senior%20Laravel%20Developer.png" alt="Senior Laravel Developer" width='100' /> 🔥 [Certified Senior Laravel Developer](https://verifier.certificationforlaravel.org/a2ee5359-d277-4219-bdc7-5b7596f3590d)
+🔥 [Certified Senior Laravel Developer](https://verifier.certificationforlaravel.org/a2ee5359-d277-4219-bdc7-5b7596f3590d)
 
 🔭 I’m a Software Engineer and currently work as PHP developer but also can help you with frontend side
 
