@@ -18,7 +18,7 @@
 
 🔭 I’m a Software Engineer and currently work as PHP developer <!--but also can help you with frontend side-->
 
-<!-- 🌱 I’m currently using Laravel and Vue on my projects -->
+<!--     🌱 I’m currently using Laravel and Vue on my projects -->
 
 🤔 I think nothing is impossible - there is a lack of information and time 
 
