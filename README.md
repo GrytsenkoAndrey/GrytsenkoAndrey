@@ -55,7 +55,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original-wordmark.svg" title="Livewire" alt="Livewire" widht="50" height="50">&nbsp;
 </div>
 
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GrytsenkoAndrey)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrytsenkoAndrey&show_icons=true&count_private=true&hide=css,c,tcl,html)](https://github.com/anuraghazra/github-readme-stats)
