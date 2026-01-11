@@ -55,6 +55,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original-wordmark.svg" title="Livewire" alt="Livewire" widht="50" height="50">&nbsp;
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GrytsenkoAndrey)](https://git.io/streak-stats)
 
 <!--
