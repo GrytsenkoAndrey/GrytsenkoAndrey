@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <a href="https://verifier.certificationforlaravel.org/a2ee5359-d277-4219-bdc7-5b7596f3590d" target="_blank"><img src="https://github.com/GrytsenkoAndrey/GrytsenkoAndrey/blob/main/Senior%20Laravel%20Developer%20certificate.png" alt="Laravel Certification"/></a>
+  <a href="https://verifier.certificationforlaravel.org/a2ee5359-d277-4219-bdc7-5b7596f3590d" target="_blank"><img src="https://github.com/GrytsenkoAndrey/GrytsenkoAndrey/blob/main/Senior%20Laravel%20Developer.png" alt="Senior Laravel Developer" width='100' /></a>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/andrey-grytsenko/">
@@ -55,7 +55,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original-wordmark.svg" title="Livewire" alt="Livewire" widht="50" height="50">&nbsp;
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GrytsenkoAndrey)](https://git.io/streak-stats)
+[!https://streak-stats.demolab.com/?user=GrytsenkoAndrey]
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GrytsenkoAndrey)](https://git.io/streak-stats)
