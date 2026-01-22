@@ -57,8 +57,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GrytsenkoAndrey)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GrytsenkoAndrey" alt="GitHub Streak" /></a>
-
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GrytsenkoAndrey)](https://git.io/streak-stats)
 
