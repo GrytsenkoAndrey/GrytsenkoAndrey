@@ -59,8 +59,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GrytsenkoAndrey)](https://git.io/streak-stats)
 
-
-
 <!--
 ===
 
