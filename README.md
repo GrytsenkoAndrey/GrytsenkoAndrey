@@ -12,7 +12,7 @@
   
 </div>
 
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> Hi there 👋 ![2](https://github.com/user-attachments/assets/b18cacbd-4a41-4a05-ad44-6c627ba8c585) </h1>
 
 🔥 [Certified Senior Laravel Developer](https://verifier.certificationforlaravel.org/a2ee5359-d277-4219-bdc7-5b7596f3590d)
 
