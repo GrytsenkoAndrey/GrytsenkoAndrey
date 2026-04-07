@@ -3,6 +3,7 @@
   <a href="https://verifier.certificationforlaravel.org/a2ee5359-d277-4219-bdc7-5b7596f3590d" target="_blank"><img src="https://github.com/GrytsenkoAndrey/GrytsenkoAndrey/blob/main/Senior%20Laravel%20Developer.png" alt="Senior Laravel Developer" width='100' /></a>
 </div>
 <div id="badges" align="center">
+  <img src="https://github.com/GrytsenkoAndrey/GrytsenkoAndrey/blob/main/2.gif" alt="AI Professional" width="150">
   <a href="https://www.linkedin.com/in/andrey-grytsenko/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,7 +14,6 @@
 </div>
 
 <h1 align="center"> Hi there 👋</h1> 
-<img src="https://github.com/GrytsenkoAndrey/GrytsenkoAndrey/blob/main/2.gif" alt="AI Professional" width="150">
 
 🔥 [Certified Senior Laravel Developer](https://verifier.certificationforlaravel.org/a2ee5359-d277-4219-bdc7-5b7596f3590d)
 
