@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/GrytsenkoAndrey/GrytsenkoAndrey/blob/main/2.gif" alt="AI Professional" width="150">
+  <img src="https://github.com/GrytsenkoAndrey/GrytsenkoAndrey/blob/main/2.gif" alt="AI Professional" width="140">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <a href="https://verifier.certificationforlaravel.org/a2ee5359-d277-4219-bdc7-5b7596f3590d" target="_blank"><img src="https://github.com/GrytsenkoAndrey/GrytsenkoAndrey/blob/main/Senior%20Laravel%20Developer.png" alt="Senior Laravel Developer" width='100' /></a>
 </div>
