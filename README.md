@@ -12,7 +12,8 @@
   
 </div>
 
-<h1 align="center"> Hi there 👋 <img src="https://github.com/GrytsenkoAndrey/GrytsenkoAndrey/blob/main/2.gif" alt="AI Professional" width="50"></h1>
+<h1 align="center"> Hi there 👋</h1> 
+<img src="https://github.com/GrytsenkoAndrey/GrytsenkoAndrey/blob/main/2.gif" alt="AI Professional" width="150">
 
 🔥 [Certified Senior Laravel Developer](https://verifier.certificationforlaravel.org/a2ee5359-d277-4219-bdc7-5b7596f3590d)
 
