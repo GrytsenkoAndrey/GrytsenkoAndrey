@@ -64,7 +64,6 @@
 ===
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GrytsenkoAndrey)](https://git.io/streak-stats)
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=GrytsenkoAndrey)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrytsenkoAndrey)](https://github.com/anuraghazra/github-readme-stats)
