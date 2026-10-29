@@ -13,6 +13,7 @@
   
 </div>
 
+
 <h1 align="center"> Hi there 👋</h1> 
 
 🔥 [Certified Senior Laravel Developer](https://verifier.certificationforlaravel.org/a2ee5359-d277-4219-bdc7-5b7596f3590d)
